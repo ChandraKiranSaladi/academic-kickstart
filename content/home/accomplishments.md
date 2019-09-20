@@ -19,33 +19,85 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Telecommunication Industry Association"
+  organization_url = ""
+  title = "1st Prize in OneM2M Hackathon"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2018-03-20"
   date_end = ""
-  description = ""
+  description = """ Park Smart \n 
+   - Successfully demonstrated a solution to the parking problem by building an application to display and
+reserve an available parking spot, if the user is in its vicinity. 
+
+ - Implemented using NodeMCU, NodeJS, OneM2M platform and an android application. 
+
+- Extracted the data collected to comprehend the trend in parking area occupancy.
+  
+  """
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "National Institute of Technology, Warangal"
+  organization_url = ""
+  title = "1st Prize in Line Follower Robot"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-10-27"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = " Won 1st Prize in National Robotics Championship for Line Follower Section"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Embedded Software and Hardware Architecture"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "http://coursera.org/verify/PRT3B4LJS3K8"
+  date_start = "2019-06-01"
+  date_end = ""
   description = ""
 
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Introduction to Embedded Systems Software and Development Environments"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/3NQC8UMALNP6"
+  date_start = "2018-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "LinkedIn"
+  organization_url = "https://www.linkedin.com"
+  title = "Learning Jenkins"
+  url = ""
+  certificate_url = "http://www.linkedin.com/learning/learning-jenkins"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "LinkedIn"
+  organization_url = "https://www.linkedin.com"
+  title = "Build Automation with Maven"
+  url = ""
+  certificate_url = "http://www.linkedin.com/learning/java-build-automation-with-maven"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = ""
+  
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+   view = 3
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows = false
+  
 +++

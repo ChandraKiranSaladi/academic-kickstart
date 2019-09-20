@@ -21,17 +21,29 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "IOT"
+    tag = "IOT"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "Distributed Algorithms"
+    tag = "DistComp"
+
+  [[content.filter_button]]
+    name = "ML"
+    tag = "ML"
+
+  [[content.filter_button]]
+    name = "Full Stack"
+    tag = "MEAN"
+
+  [[content.filter_button]]
+    name = "Hackathon"
+    tag = "Hackathon"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
